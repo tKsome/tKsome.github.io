@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puncture Medical Robot
-image: 8.jpg
+image: puncturerobot2.png
 date: 2021-06-06 13:35:20 +0200
 tags: robot
 categories: guide
