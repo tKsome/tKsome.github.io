@@ -4,9 +4,9 @@ title: Puncture Medical Robot
 image: puncturerobot2.png
 date: 2021-06-06 13:35:20 +0200
 tags: robot
-categories: guide
+categories: Medical Robot
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+We design a novel robotic guidance system that could accurately obtain the puncture needle position and orientation within the operating room. On this robotic system stage, this work has designed three types of approach, which contain eye-gaze tracking system, P.I.D controller system and MPC controller system.
 
 ***
 
